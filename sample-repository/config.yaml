@@ -1,0 +1,3 @@
+# DEMONSTRATION FILE - intentionally insecure.
+database:
+  url: postgresql://admin:super-secret-password@db.internal:5432/production
